@@ -108,7 +108,10 @@ i{
   opacity: 0.85;
 }
 .btn:active{
-  opacity: 0.85;
+  scale: 0.98;
+}
+.btn:hover{
+  background-color: #93b54b;
 }
 .divider{
   display: flex;
